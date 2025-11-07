@@ -4,8 +4,8 @@ import 'dart:convert';
 import 'dart:math';
 
 class GeminiService {
-  static const String _geminiApiKey = 'AIzaSyC6FWLoJQYHRLqxWK7cSahZsl2_IMKBBcM';
-  static const String _geminiApiEndpoint = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent?key=$_geminiApiKey';
+  static const String _geminiApiKey = '#';
+  static const String _geminiApiEndpoint = '#';
 
   Future<Map<String, dynamic>> analyzeFoodImage(String imagePath) async {
     print('Attempting to analyze image from path: $imagePath');
