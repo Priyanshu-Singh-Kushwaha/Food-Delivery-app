@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667294670739",
+    "project_id": "nexux-6969f",
+    "storage_bucket": "nexux-6969f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667294670739:android:25058c7febaf2ffc551266",
+        "android_client_info": {
+          "package_name": "com.example.nexux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4tBpw_sXFV6V9jJWDh_9Ruyn3rverMTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
